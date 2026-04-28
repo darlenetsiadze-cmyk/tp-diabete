@@ -92,6 +92,12 @@ with tab2:
 with tab3:
     st.header("💡 Note Technique & Conceptuelle")
     st.markdown(f"""
+                  ### 🛠️ Choix Techniques (Qualités de l'application) :
+    1.  **Créativité :** Intégration d'un calculateur d'IMC automatique et d'une analyse bivariée en temps réel.
+    2.  **Robustesse :** Persistance des données via CSV et gestion automatique des tris.
+    3.  **Efficacité :** Interface simplifiée permettant une saisie rapide et une visualisation immédiate.
+    4.  **Fiabilité :** Algorithmes de calcul basés sur les standards de l'OMS (Organisation Mondiale de la Santé).
+
     **Étudiante :** TSIADZE DONFACK DARLENE | **Matricule :** 24G2361  
     **Enseignant :** Pr. Rollin Francis
     """)
